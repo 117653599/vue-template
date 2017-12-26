@@ -1,6 +1,7 @@
 {
   "name": "{{projectName}}",
   "version": "{{projectVersion}}",
+  "author": "hqlin@117653599.com",
   "description": "{{projectDescription}}",
   "private": true,
   "scripts": {
